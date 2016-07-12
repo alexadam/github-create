@@ -1,5 +1,5 @@
 # github-create
-Save the current folder as a new GitHub repository
+Turn the current directory into a new GitHub repository
 
 ## How to "install"
 
@@ -35,7 +35,7 @@ source ~/.bashrc
 
 ## How to use
 
-In a terminal, go to the folder you want to turn into a GitHub repo and type this:
+In a terminal, go to the directory you want to turn into a GitHub repo and type this:
 
 ```bash
 github-create <YOUR GITHUB USERNAME>
